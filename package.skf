@@ -1,0 +1,11 @@
+пакет {
+    имя = "skyforge-crypto"
+    версия = "0.1.0"
+    автор = "SkyPackages"
+    описание = "Безопасная генерация токенов."
+    репозиторий = "github.com/skytech-alt/skyforge-crypto"
+    точка_входа = "code/main.skf"
+    теги = ["crypto", "security"]
+    лицензия = "MIT"
+    зависимости = []
+}
